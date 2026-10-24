@@ -42,6 +42,8 @@ The pipeline is orchestrated to run in sequence with a single command.
 
 1. Clone the repository and install the dependencies:
    ```bash
-   git clone [https://github.com/sassa0410/end-to-end-quant-pipeline.git](https://github.com/sassa0410/end-to-end-quant-pipeline.git)
-   cd end-to-end-quant-pipeline
+   git clone https://github.com/sassa0410/End-To-End-Quant-Pipeline.git
+   cd End-To-End-Quant-Pipeline
    pip install -r requirements.txt
+   python main.py
+   ```
